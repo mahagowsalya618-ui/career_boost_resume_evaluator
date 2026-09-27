@@ -1,0 +1,44 @@
+ 📄 Resume ADTS (ATS-like) Analyzer
+
+A Python-based **ATS-like Resume Analyzer** that analyzes resumes and provides a score based on skills and keywords.
+
+ 🚀 Features
+
+* 📂 Upload PDF / DOCX resume
+* 🎓 Automatic department detection
+
+  * CSE
+  * ECE
+  * EEE
+  * Mechanical
+* 📊 Category-wise scoring
+
+  * Aptitude
+  * Soft Skills
+  * Technical Skills
+  * Domain Knowledge
+* 🎯 Total score out of 100
+* 📈 Score visualization using a bar chart
+* 💡 Resume improvement suggestions
+* 📝 5-question confidence quiz
+
+🛠️ Technologies
+
+* Python
+* PyPDF2
+* python-docx
+* Matplotlib
+* Google Colab
+
+ ▶️ How to Run
+
+1. Open the project in **Google Colab**.
+2. Install the required packages.
+3. Run the code.
+4. Upload a PDF or DOCX resume.
+5. View the analysis score and suggestions.
+6. Complete the 5-question quiz.
+
+
+This is an **educational ATS-like project** based on keyword matching. It does not represent the exact ATS systems used by companies.
+
